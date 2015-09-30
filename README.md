@@ -21,8 +21,8 @@ So you write a program to do it for you.
 ### Configuration
 
 ```bash
-git clone git@github.com:Valmasso/solveroutelowercost.git
-cd solveroutelowercost
+git clone git@github.com:Valmasso/ctm.git
+cd ctm
 bundle install
 ```
 
@@ -32,7 +32,7 @@ bundle install
 bundle exec rspec
 ```
 
-## Executando
+### How to run the project
 
 ```bash
 ruby ctm.rb "`cat talks.txt`"
